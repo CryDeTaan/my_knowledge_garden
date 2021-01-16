@@ -9,6 +9,6 @@ I intend to digest something every other day which I will then try to add to my 
 
 ## Technicals - for those interested
 
-For my knowledge garden I use a minimally configure VuePress site, which I push to GitHub and let netlify take care of the rest.
+For my knowledge garden I use a [minimally configure](https://github.com/CryDeTaan/my_knowledge_garden/blob/master/docs/.vuepress/config.js) VuePress site, which I push to GitHub and let netlify take care of the rest.
 
 To add additional pages, it is as simple as adding a new `.md` file to the **mkg** directory. Add content using Markdown, see the VuePress [Markdown Extensions](https://vuepress.vuejs.org/guide/markdown.html) for more information, and use lots of these :tada: :art: :100:
