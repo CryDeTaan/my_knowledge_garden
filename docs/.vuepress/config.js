@@ -20,7 +20,7 @@ module.exports = {
         nav: [
           { text: '🤖', link: 'https://abstractentropy.com/', target:'_self' },
           { text: '🐦', link: 'https://twitter.com/CryDeTaan', target:'_self' },
-          { text: '🐙', link: 'https://google.com', target:'_self' },
+          { text: '🐙', link: 'https://github.com/CryDeTaan', target:'_self' },
         ],
 
         
