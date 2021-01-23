@@ -11,3 +11,5 @@ A network of interlocking alliances and crisis led to the great powers of Europe
  - Estimated 9 million combatant deaths, and
  - 13 million civilian deaths as a direct result of the war
 
+## References
+ - [https://en.wikipedia.org/wiki/World_War_I](https://en.wikipedia.org/wiki/World_War_I)
