@@ -6,7 +6,7 @@ A network of interlocking alliances and crisis led to the great powers of Europe
  - Triple Entente, consisting of France, Russia, and Britain.
  - Triple Alliance of Germany, Austria-Hungary, and Italy. 
 
-### Statistics
+## Statistics
  - 70 million military personnel(60 million Europeans)
  - Estimated 9 million combatant deaths, and
  - 13 million civilian deaths as a direct result of the war
