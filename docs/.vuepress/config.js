@@ -18,9 +18,9 @@ module.exports = {
       smoothScroll: true,
 
         nav: [
-          { text: '🤖', link: 'https://abstractentropy.com/', target:'_self' },
-          { text: '🐦', link: 'https://twitter.com/CryDeTaan', target:'_self' },
-          { text: '🐙', link: 'https://github.com/CryDeTaan', target:'_self' },
+          { text: '🤖', link: 'https://abstractentropy.com/' },
+          { text: '🐦', link: 'https://twitter.com/CryDeTaan' },
+          { text: '🐙', link: 'https://github.com/CryDeTaan' },
         ],
 
         
