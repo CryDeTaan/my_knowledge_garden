@@ -26,8 +26,14 @@ module.exports = {
         
         sidebar: [
             {
+              title: 'Home',
               collapsable: false,
-              children: pages('./docs/mkg/'),
+              children: ['/']
+            },
+            {
+              title: 'History',
+              collapsable: false,
+              children: pagesIn('history'),
             },
           ],
 
@@ -42,20 +48,15 @@ module.exports = {
 
 // https://stackoverflow.com/a/53271115
 
-function pages(path) {
-  let files = fs.readdirSync(path);
-  let list = ["/"];
+function pagesIn(path) {
+  let files = fs.readdirSync('./docs/mkg/' + path);
+  let list = [];
 
   for (let i in files) {
       
     let filename = files[i].split('.').slice(0, -1).join('.');
 
-    if (filename.toLowerCase() !=="readme") {
-
-        let filePath = path.split('/').slice(2, -1)[0];
-        list.push(`/${filePath}/${filename}`);
-
-    }
+    if (filename.toLowerCase() !=="readme") list.push(`/mkg/${path}/${filename}`);
     
   }
 
